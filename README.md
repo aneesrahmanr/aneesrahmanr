@@ -41,30 +41,4 @@ Welcome to my GitHub profile! I'm passionate about data, analysis, and visualiza
 - [![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:aneesrahman2019009@gmail.com)
 
 
----
-
-### ⚡ Fun Fact:
-Did you know that I play bass in my free time? 🎸 Music keeps me creative, and I love jamming across various genres!
-
-
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
-
-
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-
-
-### 📫 Connect with me:
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anees-rahman-1577a1295)](https://www.linkedin.com/in/anees-rahman-1577a1295) 
-
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
