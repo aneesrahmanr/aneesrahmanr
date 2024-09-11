@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about data, analysis, and visualiza
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aneesrahmanr&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/code.svg" alt="animated coding" />
