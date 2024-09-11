@@ -9,10 +9,6 @@ Welcome to my GitHub profile! I'm passionate about data, analysis, and visualiza
 
 
 
-[![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
-
 ### 🚀 Skills:
 - **Programming:** Python, R, SQL
 - **Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn
@@ -37,6 +33,8 @@ Welcome to my GitHub profile! I'm passionate about data, analysis, and visualiza
 - Get certified in advanced data science and machine learning
 - Build a community for data enthusiasts
 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ---
 
 ### 📫 How to reach me:
