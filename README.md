@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm passionate about data, analysis, and visualiza
 [![GitHub Streak](https://streak-stats.demolab.com?user=aneesrahmanr&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/code.svg" alt="animated coding" />
 
 
 ### 🎯 Goals:
