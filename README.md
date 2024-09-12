@@ -25,20 +25,10 @@ Welcome to my GitHub profile! I'm passionate about data, analysis, and visualiza
 [![GitHub Streak](https://streak-stats.demolab.com?user=aneesrahmanr&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
-
-
-### 🎯 Goals:
-- Become a LinkedIn Top Voice for Data Analytics in 2025
-- Get certified in advanced data science and machine learning
-- Build a community for data enthusiasts
-
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
----
-
 ### 📫 How to reach me:
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anees-rahman-1577a1295/)
 - [![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:aneesrahman2019009@gmail.com)
 
 
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+---
