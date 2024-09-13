@@ -1,6 +1,6 @@
-# Hi there, I'm Anees 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+there+I'm+Anees+Rahman;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
-### 💻 Data Analyst | 📊 Data Scientist in Progress
+###  Data Analyst |  Data Scientist in Progress
 ![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ---
